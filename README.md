@@ -1,16 +1,20 @@
 # OpenAI Gym Tutorials
 
-這是一個非官方 OpenAI Gym 教學文件，歡迎閱讀[貢獻者指南](.)參與協作
+這是一個非官方 OpenAI Gym 教學文件，歡迎閱讀 [貢獻者指南](CONTRIBUTE.md) 參與協作
 
 本文件並非單純官方文件翻譯，而是聚焦在：
 
 - 引導簡易實作，從實作中認識 OpenAI Gym 提供的各種函數
 
-在此會假設讀者有基本 Reinforcement Learning 理論知識，不再簡介相關理論公式
+    - 在此會假設讀者有基本 Reinforcement Learning 理論知識，不再簡介相關理論公式
 
-如果想要更有系統地學習 Reinforcement Learning，請參考 [awesome-RL](https://github.com/aikorea/awesome-rl) 列表中的相關資源。
+    - 如果想要更有系統地學習 Reinforcement Learning，請參考 [awesome-RL](https://github.com/aikorea/awesome-rl) 列表中的相關資源。
 
-- 本文件會特別針對如何**自訂環境**做說明，以及適時補充自訂環境會遇到的問題與解決方法
+- 本文件會特別針對如何 **自訂環境** 做說明，以及適時補充自訂環境會遇到的問題與解決方法
+    
+    - 在此不會講怎麼使用 render()，而是會多討論怎麼用 Gym Http API 
+
+    - 除非你是要處理遊戲問題，或是要跑別人的環境，否則用 Web 呈現結果會比較容易
 
 ## 目錄
 
