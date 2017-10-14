@@ -27,7 +27,7 @@ chapter-08.md | Http API（一）啟動伺服器   | 了解 Gym Http API 的伺�
 chapter-09.md | Http API（二）取得回合結果 | 簡易使用 Http API 的教學
 chapter-10.md | 安裝與執行常見錯誤         | 列出安裝與執行時的可能錯誤與可能解法
 chapter-11.md | 所有函數的使用方法         | 上述未提到的其他 Gym 套件函數的使用說明
-chapter-11.md | 　　　　　　　　　         | 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+              | 　　　　　　　　　         |　　　　　　　　　　　　　　　　　　　　　　　　　
 
 
 
