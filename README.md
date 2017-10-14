@@ -23,10 +23,10 @@
 chapter-01.md | 套件安裝                   | 安裝 Python 與 OpenAI Gym 的教學
 chapter-02.md | 建立範例環境               | 透過官方範例認識 gym 以及 env 的基本用法
 chapter-03.md | 訓練範例演算法             | 認識 Gym 如何訓練，以及演算法的基本架構
-chapter-03.md | 自訂環境（一）環境模組     | 要在 Gym 上面跑，你的環境要提供那些功能
-chapter-04.md | 自訂環境（二）回合運算     | 學會寫環境的回合運算函數
-chapter-05.md | 自訂環境（三）環境重置     | 學會寫環境的初始與重置函數
-chapter-06.md | 自訂環境（四）初始化       | 學會寫環境的初始化函數
+chapter-04.md | 自訂環境（一）環境模組     | 要在 Gym 上面跑，你的環境要提供那些功能
+chapter-05.md | 自訂環境（二）回合運算     | 學會寫環境的回合運算函數
+chapter-06.md | 自訂環境（三）環境重置     | 學會寫環境的初始與重置函數
+chapter-07.md | 自訂環境（四）初始化       | 學會寫環境的初始化函數
 chapter-08.md | Http API（一）啟動伺服器   | 了解 Gym Http API 的伺服器端和客戶端
 chapter-09.md | Http API（二）取得回合結果 | 簡易使用 Http API 的教學
 chapter-10.md | 安裝與執行常見錯誤         | 列出安裝與執行時的可能錯誤與可能解法
